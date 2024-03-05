@@ -50,6 +50,19 @@ module.exports = {
         Manrope:['Manrope']
 
       },
+      width:{
+        90:"370px",
+        91:"350px"
+      },
+      height:{
+        90:"340px",
+        91:"300px"
+      },
+      top:{
+        76:"300"
+      },
+      
+      
       // backgroundImage: {
       //   'hero':"url('../photo/BG.svg')"
 
